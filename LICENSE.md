@@ -29,7 +29,7 @@ RAMPAGE Interactive reserves the right to remove any assets from The Western Fro
 Selling/Commerical usage of The Western Frontier is not allowed without written permission from RAMPAGE Interactive.
 
 ### License
-The License applies to The Western Frontier and its associated documentation files. Permission is hereby granted, free of charge, to any person obtaining a copy of The Western Frontier, to deal in The Western Frontier without restriction, subject to the conditions and limitations set forth in the MIT License.
+The License applies to The Western Frontier and its associated documentation files. Permission is hereby granted, free of charge, to any person obtaining a copy of The Western Frontier, to deal in The Western Frontier without restriction, subject to the conditions and limitations set forth in the License.
 
 By using The Western Frontier, you agree to be bound by the terms of this license. If you do not agree to the terms of this license, you are not permitted to use The Western Frontier.
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
